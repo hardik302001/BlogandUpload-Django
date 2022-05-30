@@ -1,3 +1,4 @@
 # BlogandUpload-Django
-This is my repo for the django project for uploading files in form of blogs.
 
+
+Django blog where users can also uploading files within blog posts.
