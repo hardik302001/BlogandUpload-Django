@@ -1,4 +1,4 @@
 # BlogandUpload-Django
 
 
-Django blog where users can also uploading files within blog posts.
+Django blog where users can also upload files within blog posts.
